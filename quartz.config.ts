@@ -3,13 +3,13 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Futuro Inteligente",
+    pageTitle: "futuro inteligente",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
-    baseUrl: "futureintelligent.mx",
+    baseUrl: "futurointeligente.mx",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "published",
     theme: {
