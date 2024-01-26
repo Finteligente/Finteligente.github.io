@@ -5,13 +5,13 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  footer: Component.Footer(),
-  // footer: Component.Footer({
-  //   links: {
-  //     about: "about",
-  //     contact: "contact",
-  //   },
-  // })
+  // footer: Component.Footer(),
+  footer: Component.Footer({
+    links: {
+      about: "about",
+      contact: "contact",
+    },
+  })
   
 }
 
