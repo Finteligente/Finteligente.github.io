@@ -9,7 +9,7 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-    baseUrl: "futureintelligent.mx",
+    baseUrl: "futurointeligente.mx",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "published",
     theme: {
