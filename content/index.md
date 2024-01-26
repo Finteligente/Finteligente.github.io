@@ -7,6 +7,7 @@ title: Futuro Inteligente
 </figure>
 
 
-**Futuro Inteligente** es un grupo de investigadores en inteligencia artificial (AI) que ofrece asesoramiento gratis para jóvenes mexicanos interesados en dedicarse al desarrollo de la inteligencia artificial.
+**Futuro Inteligente** es un grupo de investigadores en inteligencia artificial (AI) que ofrece asesoramiento gratis para jóvenes mexicanos interesados en dedicarse al desarrollo de la inteligencia artificial. 
+Lee más sobre nuestra misión [aquí](/mision).
 
-Si eres alumno de secundaria, preparatoria, o licenciatura y te gustaría dedicarte a la inteligencia artificial, contáctanos aquí para agendar una sesión gratis.
+Si eres alumno de secundaria, preparatoria, o licenciatura y te gustaría dedicarte a la inteligencia artificial, contáctanos [aquí](mailto:fernandopalafox@utexas.edu) para agendar una sesión gratis.
