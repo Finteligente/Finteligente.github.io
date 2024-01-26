@@ -8,9 +8,9 @@ export const sharedPageComponents: SharedLayout = {
   // footer: Component.Footer(),
   footer: Component.Footer({
     links: {
-      misión: "mision",
-      nosotros: "nosotros",
-      contacto: "contacto",
+      Misión: "mision",
+      Nosotros: "nosotros",
+      Contacto: "contacto",
     },
   })
   

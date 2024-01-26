@@ -1,5 +1,5 @@
 ---
-title: misión
+title: Misión
 ---
 
 Nuestra misión es simple: inspirar jóvenes mexicanos a que resuelvan problemas de alto impacto a través del desarrollo y la aplicación de la inteligencia artificial.
