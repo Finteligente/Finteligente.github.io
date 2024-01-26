@@ -3,7 +3,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "futuro inteligente",
+    pageTitle: "Futuro Inteligente",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
